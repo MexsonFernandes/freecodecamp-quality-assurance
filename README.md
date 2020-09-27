@@ -1,5 +1,5 @@
-FCC Test Challenge Prototype 
+FreeCodeCamp Quality Assurance and Testing with Chai
 ============================
-[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-mochachai)](https://repl.it/github/freeCodeCamp/boilerplate-mochachai)
+[![Run on Repl.it](https://repl.it/@MexsonFernandes/freecodecamp-quality-assurance)](https://repl.it/@MexsonFernandes/freecodecamp-quality-assurance)
 
-QA with mocha & chai
+Demo Link: https://freecodecamp-quality-assurance.mexsonfernandes.repl.co
