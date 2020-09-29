@@ -81,8 +81,7 @@ function(req, res){
   });
 });
 
-
-app.listen(process.env.PORT || 3000, function() {
+app.listen(process.env.PORT || 3030, function() {
   console.log("Listening on port " + process.env.PORT);
   if(!process.env.SKIP_TESTS) {
     console.log('Running Tests...');

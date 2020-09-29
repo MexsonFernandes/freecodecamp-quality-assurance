@@ -4,8 +4,7 @@
 	"description": "Course updates of freecodecamp-quality-assurance",
 	"main": "server.js",
 	"scripts": {
-		"start": "node server.js",
-		"reload": "nodemon server.js"
+		"start": "nodemon server.js"
 	},
 	"dependencies": {
 		"body-parser": "^1.15.2",
